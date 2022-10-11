@@ -12,7 +12,7 @@ $ pkg install nodejs
 
 ```
 
-$ git clone https://github.com/Sew01RaviduManoj01KingAndQueen/sew.git
+$ git clone https://github.com/OminduAnjane/king-rawana-qr.git
 
 $ cd qr
 
@@ -32,5 +32,5 @@ $ node rawana.js
 
 ***
 
-<div align="center"><img src="https://profile-counter.glitch.me/ravindu01manoj/count.svg" /><br>Profile Viewers</div>
+<div align="center"><img src="https://profile-counter.glitch.me/OminduAnjane/count.svg" /><br>Profile Viewers</div>
 
