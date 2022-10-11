@@ -14,7 +14,7 @@ $ pkg install nodejs
 
 $ git clone https://github.com/OminduAnjane/king-rawana-qr.git
 
-$ cd qr
+$ cd king-rawana-qr
 
 $ npm i
 
