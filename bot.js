@@ -3,5 +3,5 @@
  Sri Lanka Rawana King Bot
  🇱🇰*/
 
-let {GenarateQrForKingRawana} = require('@ominduanjane/bot-qr')
+let {GenarateQrForBotQr} = require('@ominduanjane/bot-qr')
 
