@@ -33,6 +33,6 @@ $ node rawana.js
 ```
 
 ***
-
+### <a href=https://www.npmjs.com/package/@ominduanjane/qr-gen">NPM</a>Author Omindu Anjana
 <div align="center"><img src="https://profile-counter.glitch.me/OminduAnjane/count.svg" /><br>Profile Viewers</div>
 
