@@ -16,9 +16,9 @@ $ git clone https://github.com/OminduAnjane/king-rawana-qr.git
 
 $ cd king-rawana-qr
 
-$ npm i @ominduanjane/qr-gen
-
 $ npm i
+
+$ npm i @ominduanjane/qr-gen
 
 $ node rawana.js
 
