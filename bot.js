@@ -1,6 +1,6 @@
 /* Sri Lanka Qr Genarater 
  Sri Lanka Whatsapp-web-api 
- Sri Lanka Rawana King Bot
+ Sri Lanka Md Bot Bot
  🇱🇰*/
 
 let {GenarateQrForBotQr} = require('@ominduanjane/bot-qr')
