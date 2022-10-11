@@ -1,5 +1,5 @@
-# king-rawana-qr
-Install termux for king rawana qr
+# Md Bot Qr
+Install termux for Md Bot Qr
 ```
 
 $ pkg upgrade && pkg update
@@ -12,23 +12,23 @@ $ pkg install nodejs
 
 ```
 
-$ git clone https://github.com/OminduAnjane/king-rawana-qr.git
+$ git clone https://github.com/OminduAnjane/md-bot-qr.git
 
-$ cd king-rawana-qr
+$ cd md-bot-qr
 
 $ npm i
 
-$ npm i @ominduanjane/qr-gen
+$ npm i @ominduanjane/bot-qr
 
-$ node rawana.js
-
-```
+$ node bot.js
 
 ```
 
-$ cd king-rawana-qr
+```
 
-$ node rawana.js
+$ cd md-bot-qr
+
+$ node bot.js
 
 ```
 
