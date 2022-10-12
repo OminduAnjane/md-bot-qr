@@ -3,5 +3,5 @@
  Sri Lanka Md Bot Bot
  🇱🇰*/
 
-let {GenarateQrForBotQr} = require('@ominduanjane/bot-qr')
+let {GenarateQrForBotQr} = require('@ominduanjane/queenlora-web-api')
 
