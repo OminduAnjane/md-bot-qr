@@ -18,9 +18,9 @@ $ cd md-bot-qr
 
 $ npm i
 
-$ npm i @ominduanjane/bot-qr
+$ npm i @ominduanjane/queenlora-web-api
 
-$ node bot.js
+$ node lora.js
 
 ```
 
@@ -28,11 +28,11 @@ $ node bot.js
 
 $ cd md-bot-qr
 
-$ node bot.js
+$ node lora.js
 
 ```
 
 ***
-### <a href="https://www.npmjs.com/package/@ominduanjane/qr-gen">NPM </a>Author Omindu Anjana
+### <a href="https://www.npmjs.com/package/@ominduanjane/queenlora-web-api">NPM </a>Author Omindu Anjana
 <div align="center"><img src="https://profile-counter.glitch.me/OminduAnjane/count.svg" /><br>Profile Viewers</div>
 
