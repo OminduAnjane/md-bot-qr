@@ -1,5 +1,5 @@
-# Md Bot Qr
-Install termux for Md Bot Qr
+# Queen Lora Md 
+Install termux for Queen Lora Md
 ```
 
 $ pkg upgrade && pkg update
